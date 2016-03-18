@@ -4334,21 +4334,26 @@ a.list-group-item.active > .badge,
   margin-left: 3px;
 }
 .jumbotron {
+
   padding: 30px;
   margin-bottom: 30px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.14285714;
   color: inherit;
-  background-color: #6600CC;
+  background-color: #B20;
+  background: url('../img/DSC07184-Edit-2.jpg');
+background-color: #B20;
+background-position: center 52%;
 }
 .jumbotron h1,
 .jumbotron .h1 {
   line-height: 1;
-  color: inherit;
+  color: #FF00A2;
 }
 .jumbotron p {
   line-height: 1.4;
+  color: #FF00A2
 }
 .container .jumbotron {
   border-radius: 6px;
@@ -5962,5 +5967,14 @@ td.visible-print {
 }
 .jumbotron {
   margin: 50px auto 0 auto;
+
 }
 /*# sourceMappingURL=/styles/main.css.map */
+
+
+#Meakis {
+  color: Purple;
+}
+.second-slide{
+  size: 50%;
+}
